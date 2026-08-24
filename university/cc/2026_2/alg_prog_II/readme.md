@@ -5,3 +5,4 @@ Convenção das pastas por aula:
 `class-X`: Abreviação para "Aula X".
 
 - **class-1**: Aula 1 — Exercícios introdutórios em C (entrada/saída, cálculos, condicionais).
+- **class-2**: Aula 2 — Laboratório 2: introdução a funções em C (modularização, laços e condicionais).
