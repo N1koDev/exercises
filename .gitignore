@@ -54,3 +54,5 @@ exercism/typescript/hello-world/changes.patch
 *.a
 *.so
 *.dSYM/
+
+*.zip
